@@ -1,0 +1,6 @@
+{"sources": [
+ {"id": "aishe-colleges", "kind": "college", "file": "data/raw/colleges.xlsx", "url": null,
+  "source_name": "AISHE, Ministry of Education (via AIKosh)", "source_url": "https://aikosh.indiaai.gov.in/", "license": "Check the dataset page for the exact licence"},
+ {"id": "aishe-universities", "kind": "university", "file": "data/raw/universities.xlsx", "url": null,
+  "source_name": "AISHE, Ministry of Education (via AIKosh)", "source_url": "https://aikosh.indiaai.gov.in/", "license": "Check the dataset page for the exact licence"}
+]}
